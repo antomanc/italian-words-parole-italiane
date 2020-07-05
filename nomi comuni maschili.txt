@@ -14,7 +14,7 @@ abbattimento
 abbecedario
 abbellimento
 abbeveratoio
-abbiccì
+abbiccÃ¬
 abbigliamento
 abbinamento
 abbindolamento
@@ -347,8 +347,8 @@ alcolimetro
 alcolismo
 alcolista
 alcoltest
-alcázar
-aldilà
+alcÃ¡zar
+aldilÃ 
 ale
 aleatico
 alesaggio
@@ -986,7 +986,7 @@ attacchinaggio
 attacchino
 attacco
 attachment
-attaché
+attachÃ©
 attante
 attecchimento
 atteggiamento
@@ -1044,7 +1044,7 @@ autocompiacimento
 autocontrollo
 autoconvocato
 autocrate
-autodafé
+autodafÃ©
 autodidatta
 autodromo
 autofinanziamento
@@ -1163,12 +1163,12 @@ babbuino
 babirussa
 babordo
 baby
-babà
+babÃ 
 baccalaureato
-baccalà
+baccalÃ 
 baccanale
 baccano
-baccarà
+baccarÃ 
 baccelliere
 baccello
 bacchettone
@@ -1237,14 +1237,14 @@ baluardo
 baluginio
 balzello
 balzo
-balì
+balÃ¬
 bambino
 bambinone
 bamboccio
 bamboleggiamento
 bambolone
 bambolotto
-bambù
+bambÃ¹
 banano
 bancale
 bancarellista
@@ -1277,7 +1277,7 @@ barattiere
 baratto
 barattolo
 barba
-barbablù
+barbablÃ¹
 barbacane
 barbaforte
 barbagianni
@@ -1402,7 +1402,7 @@ beat
 beatnik
 beaujolais
 bebop
-bebè
+bebÃ¨
 beccaccino
 beccafico
 beccaio
@@ -1504,7 +1504,7 @@ biciclo
 bidello
 bidente
 bidone
-bidè
+bidÃ¨
 biennio
 bietolone
 bifolco
@@ -1513,7 +1513,7 @@ bigello
 bighellone
 bigliettaio
 biglietto
-bignè
+bignÃ¨
 bigodino
 bigoncio
 bijou
@@ -1629,7 +1629,7 @@ bocia
 bodoni
 body
 body-building
-bohémien
+bohÃ©mien
 boia
 boiardo
 boicottaggio
@@ -1682,7 +1682,7 @@ bordatino
 bordeggio
 bordello
 borderline
-borderò
+borderÃ²
 bordino
 bordo
 bordone
@@ -1777,7 +1777,7 @@ brentolo
 breve
 brevetto
 breviario
-bric-à-brac
+bric-Ã -brac
 bricco
 briccone
 briciolo
@@ -1954,7 +1954,7 @@ cacciatorino
 cacciatorpediniere
 cacciavite
 cacciucco
-cacciù
+cacciÃ¹
 cache-col
 cache-sexe
 cachemire
@@ -1972,11 +1972,11 @@ cadeau
 cadmio
 caduceo
 caduto
-cadì
+cadÃ¬
 cafard
 caffellatte
 caffettano
-caffè
+caffÃ¨
 caglio
 cagnotto
 cahier
@@ -2077,7 +2077,7 @@ cambiamento
 cambiavalute
 cambio
 cambista
-cambrì
+cambrÃ¬
 cambusiere
 camcorder
 camembert
@@ -2168,7 +2168,7 @@ cannellino
 cannello
 cannellone
 canneto
-canneté
+cannetÃ©
 cannibale
 cannibalismo
 canniccio
@@ -2244,7 +2244,7 @@ capitolato
 capitolo
 capitombolo
 capitone
-capitonné
+capitonnÃ©
 capo
 capoarea
 capobanda
@@ -2303,7 +2303,7 @@ capostipite
 capostorno
 capotasto
 capotreno
-capotribù
+capotribÃ¹
 capoturno
 capoufficio
 capoverso
@@ -2357,7 +2357,7 @@ carburante
 carburatore
 carburatorista
 carburo
-carcadè
+carcadÃ¨
 carcame
 carcere
 carceriere
@@ -2377,7 +2377,7 @@ cardiopalmo
 cardo
 carenaggio
 cargo
-caribù
+caribÃ¹
 caricabatteria
 caricamento
 caricatore
@@ -2422,7 +2422,7 @@ carrozzino
 carrozzone
 carrubo
 carruggio
-carré
+carrÃ©
 carsismo
 cartaio
 cartamo
@@ -2473,11 +2473,11 @@ casigliano
 casinaro
 casinista
 casino
-casinò
+casinÃ²
 caso
 casolare
 casotto
-casqué
+casquÃ©
 cassaintegrato
 cassero
 cassetto
@@ -2523,7 +2523,7 @@ catechismo
 catechista
 catechizzatore
 catecumeno
-catecù
+catecÃ¹
 catenaccio
 catering
 caterpillar
@@ -2537,7 +2537,7 @@ catorcio
 catorzolo
 catrame
 cattolicesimo
-caucciù
+caucciÃ¹
 cauchemar
 caule
 causeur
@@ -2572,7 +2572,7 @@ cavolfiore
 cavolo
 cazzo
 cazzotto
-cañón
+caÃ±Ã³n
 cd-rom
 cdr
 cecchino
@@ -2719,7 +2719,7 @@ checkpoint
 cheese-burger
 chef
 chemin
-chepì
+chepÃ¬
 chermes
 cherosene
 cherry
@@ -2786,8 +2786,8 @@ choc
 chop
 chopper
 chorus
-châssis
-chèque
+chÃ¢ssis
+chÃ¨que
 ciabattino
 ciabattone
 ciak
@@ -2846,7 +2846,7 @@ cimolo
 cimurro
 cinabrese
 cinabro
-cincillà
+cincillÃ 
 cincischiamento
 cincischio
 cine
@@ -2891,7 +2891,7 @@ circolo
 circondario
 circuito
 cireneo
-ciripà
+ciripÃ 
 cirneco
 cirro
 cirrocumulo
@@ -2933,7 +2933,7 @@ clearing
 clergyman
 clericalismo
 clero
-cliché
+clichÃ©
 client
 cliente
 clientelismo
@@ -3032,7 +3032,7 @@ colera
 colesterolo
 colibacillo
 colibatterio
-colibrì
+colibrÃ¬
 colino
 colio
 collaboratore
@@ -3200,7 +3200,7 @@ comunicando
 comunicante
 comunicato
 comunismo
-comò
+comÃ²
 conato
 concatenamento
 concento
@@ -3305,7 +3305,7 @@ consocio
 consolato
 console
 consolidamento
-consommé
+consommÃ©
 consonantismo
 consorzio
 consulente
@@ -3570,7 +3570,7 @@ coulomb
 count
 couplet
 coupon
-coupé
+coupÃ©
 cover
 covile
 covo
@@ -3690,7 +3690,7 @@ cucco
 cuciniere
 cucullo
 cuculo
-cudù
+cudÃ¹
 cugino
 cul-de-sac
 culaccio
@@ -3723,7 +3723,7 @@ curaro
 curato
 curatolo
 curatore
-curaçao
+curaÃ§ao
 curculione
 curie
 curio
@@ -3740,7 +3740,7 @@ cutoff
 cutter
 cyberpunk
 cyberspazio
-côté
+cÃ´tÃ©
 dadaismo
 dado
 daffare
@@ -4192,7 +4192,7 @@ dopoguerra
 dopolavoro
 dopopartita
 doposcuola
-doposcì
+doposcÃ¬
 doppiaggio
 doppiatore
 doppiere
@@ -4278,14 +4278,14 @@ durame
 durone
 duvet
 dvd
-décalage
-décor
-défilé
-dépistage
-dépliant
-dérapage
-déshabillé
-dì
+dÃ©calage
+dÃ©cor
+dÃ©filÃ©
+dÃ©pistage
+dÃ©pliant
+dÃ©rapage
+dÃ©shabillÃ©
+dÃ¬
 e-book
 e-business
 e-commerce
@@ -4406,7 +4406,7 @@ elisir
 elleboro
 ellenismo
 ellenista
-ellepì
+ellepÃ¬
 ellissoide
 elmetto
 elminti
@@ -4442,7 +4442,7 @@ empito
 emporio
 emulo
 emuntorio
-emù
+emÃ¹
 enalotto
 enantiomorfismo
 encausto
@@ -4720,7 +4720,7 @@ eupatride
 euro
 eurobond
 eurocentrismo
-eurochèque
+eurochÃ¨que
 eurocity
 eurodeputato
 eurodollaro
@@ -4794,12 +4794,12 @@ fallimentarista
 fallimento
 fallo
 fallout
-falpalà
+falpalÃ 
 falsario
 falsettista
 falsetto
 falsopiano
-falò
+falÃ²
 famedio
 famiglio
 familismo
@@ -4893,7 +4893,7 @@ fegato
 feldmaresciallo
 feldspato
 fellone
-fellàh
+fellÃ h
 feltro
 femminismo
 femore
@@ -5047,7 +5047,7 @@ fischiettio
 fischietto
 fischio
 fischione
-fisciù
+fisciÃ¹
 fisco
 fisheye
 fisiatra
@@ -5103,8 +5103,8 @@ flusso
 flussometro
 flutto
 fluviometro
-flâneur
-flûte
+flÃ¢neur
+flÃ»te
 fmi
 focatico
 fochista
@@ -5165,7 +5165,7 @@ forcone
 fordismo
 forestierismo
 forfait
-forfè
+forfÃ¨
 forgiatore
 formaggino
 formaggio
@@ -5255,7 +5255,7 @@ frangivento
 frangizolle
 frantoio
 frantume
-frappé
+frappÃ©
 frasario
 frascame
 frascati
@@ -5295,7 +5295,7 @@ freon
 frequentatore
 frequenziometro
 frettazzo
-fricandò
+fricandÃ²
 fricchettone
 frigidaire
 frigidario
@@ -5398,8 +5398,8 @@ futurismo
 futurista
 futurologo
 fx
-föhn
-führer
+fÃ¶hn
+fÃ¼hrer
 gabbamondo
 gabbano
 gabbiano
@@ -5414,7 +5414,7 @@ gaffer
 gaffeur
 gagliardetto
 gaglioffo
-gagà
+gagÃ 
 gal
 gala
 galantomismo
@@ -5482,7 +5482,7 @@ garretto
 garrito
 garzo
 garzone
-garçon
+garÃ§on
 gas
 gasdotto
 gasista
@@ -5523,7 +5523,7 @@ gemellaggio
 gemito
 gendarme
 gene
-genepì
+genepÃ¬
 generalato
 generale
 genere
@@ -5668,7 +5668,7 @@ giorno
 giovamento
 giovanilismo
 giovanotto
-giovedì
+giovedÃ¬
 giovialone
 giovinastro
 giovincello
@@ -5725,7 +5725,7 @@ giureconsulto
 giurisdizionalismo
 giurisdizionalista
 giurista
-giurì
+giurÃ¬
 giusnaturalismo
 giusquiamo
 giustacuore
@@ -6002,9 +6002,9 @@ guru
 guscio
 gusto
 gutturalismo
-guéridon
+guÃ©ridon
 habitat
-habitué
+habituÃ©
 hacker
 hacking
 hagi
@@ -6024,7 +6024,7 @@ hashish
 headline
 helisky
 help
-henné
+hennÃ©
 henry
 herpes
 hertz
@@ -6601,7 +6601,7 @@ kitsch
 kiwi
 kleenex
 know-how
-knödel
+knÃ¶del
 koala
 kodiak
 koilon
@@ -6614,7 +6614,7 @@ krapfen
 krill
 kulak
 kursaal
-kümmel
+kÃ¼mmel
 la
 labaro
 labbo
@@ -6624,7 +6624,7 @@ labirinto
 laboratorio
 labrador
 laburismo
-lacchè
+lacchÃ¨
 laccio
 lacerto
 lacrimatoio
@@ -6668,7 +6668,7 @@ lanciatore
 lanciere
 lancio
 landau
-landò
+landÃ²
 langravio
 languore
 laniccio
@@ -6849,7 +6849,7 @@ lift
 lifting
 lignaggio
 ligustro
-lillà
+lillÃ 
 limaccio
 limatore
 limbo
@@ -6993,7 +6993,7 @@ luminismo
 lumino
 lunario
 lunch
-lunedì
+lunedÃ¬
 lungodegente
 lungofiume
 lungolago
@@ -7019,7 +7019,7 @@ lutezio
 lutto
 lux
 luxmetro
-luì
+luÃ¬
 macaco
 macadam
 macao
@@ -7040,14 +7040,14 @@ machete
 machiavellismo
 machmetro
 macigno
-macinacaffè
+macinacaffÃ¨
 macinapepe
 macinatoio
 macinino
 macintosh
 macis
 maciste
-macramè
+macramÃ¨
 macrocito
 macroclima
 macrocosmo
@@ -7221,7 +7221,7 @@ mapo
 mappamondo
 maquillage
 maquis
-marabù
+marabÃ¹
 maramaldo
 marangone
 maraschino
@@ -7277,7 +7277,7 @@ marsala
 marsupio
 martagone
 marte
-martedì
+martedÃ¬
 martellamento
 martelletto
 martelliano
@@ -7291,7 +7291,7 @@ martirologio
 marxismo
 marzapane
 marzo
-marò
+marÃ²
 mas
 mascalzone
 mascara
@@ -7363,7 +7363,7 @@ mazzetto
 mazziere
 mazzo
 mazzuolo
-maître
+maÃ®tre
 meandro
 meato
 meccanicismo
@@ -7416,7 +7416,7 @@ memorandum
 memorial
 memoriale
 memorialista
-menabò
+menabÃ²
 menagramo
 menarca
 mendacio
@@ -7439,7 +7439,7 @@ mercato
 merchandising
 merciaio
 mercimonio
-mercoledì
+mercoledÃ¬
 mercurio
 mercurocromo
 merge
@@ -7513,7 +7513,7 @@ metro
 metronomo
 metronotte
 metropolita
-metró
+metrÃ³
 mettifoglio
 mettimale
 mezzadro
@@ -7521,7 +7521,7 @@ mezzanino
 mezzo
 mezzobusto
 mezzocontralto
-mezzodì
+mezzodÃ¬
 mezzofondista
 mezzofondo
 mezzogiorno
@@ -7740,7 +7740,7 @@ monopolista
 monopsonio
 monosaccaride
 monoscopio
-monoscì
+monoscÃ¬
 monossido
 monoteismo
 monoteista
@@ -7832,7 +7832,7 @@ muchacho
 muco
 muezzin
 muflone
-muftì
+muftÃ¬
 mugghio
 muggine
 muggito
@@ -7886,17 +7886,17 @@ mutuato
 mutuo
 myosotis
 mystery
-mälström
-mélange
-mélo
-ménage
+mÃ¤lstrÃ¶m
+mÃ©lange
+mÃ©lo
+mÃ©nage
 n&omacr
 nababbo
 nabuk
 nadir
 naftene
 naftolo
-nandù
+nandÃ¹
 nanerottolo
 nanismo
 nanosecondo
@@ -7912,7 +7912,7 @@ narcotest
 narcotrafficante
 narcotraffico
 nardo
-narghilè
+narghilÃ¨
 narratore
 nartece
 narvalo
@@ -8075,7 +8075,7 @@ nonno
 nonnulla
 nonsense
 nonsenso
-nontiscordardimé
+nontiscordardimÃ©
 nord
 nord-est
 nord-ovest
@@ -8126,8 +8126,8 @@ nut
 nutrimento
 nutrizionista
 nylon
-nécessaire
-négligé
+nÃ©cessaire
+nÃ©gligÃ©
 obbligo
 obbrobrio
 obelisco
@@ -8136,7 +8136,7 @@ obice
 obiettore
 obitorio
 oblio
-oblò
+oblÃ²
 obnubilamento
 oboe
 obolo
@@ -8323,7 +8323,7 @@ oritteropo
 orizzontamento
 orizzonte
 orlo
-orléans
+orlÃ©ans
 ormeggiatore
 ormeggio
 ormone
@@ -8436,7 +8436,7 @@ ozelot
 ozio
 ozonizzatore
 ozono
-oïl
+oÃ¯l
 paca
 pacchetto
 pacco
@@ -8467,7 +8467,7 @@ paganesimo
 pagello
 paggetto
 paggio
-pagherò
+pagherÃ²
 pagliaccetto
 pagliaccio
 pagliaio
@@ -8476,7 +8476,7 @@ pagobancomat
 paguro
 paio
 paiolo
-paisà
+paisÃ 
 paladino
 palafreniere
 palafreno
@@ -8515,7 +8515,7 @@ pallone
 pallonetto
 pallore
 pallottoliere
-palmarès
+palmarÃ¨s
 palmento
 palmeto
 palmizio
@@ -8526,7 +8526,7 @@ palombaro
 palombo
 palpeggiamento
 palpito
-paltò
+paltÃ²
 paludamento
 pamphlet
 pampino
@@ -8534,7 +8534,7 @@ panachage
 panama
 pancaccio
 pancake
-pancarré
+pancarrÃ©
 pancione
 panciotto
 pancotto
@@ -8607,7 +8607,7 @@ pappamolle
 pappataci
 pappo
 pappone
-papà
+papÃ 
 parabellum
 parabordo
 parabrace
@@ -8715,9 +8715,9 @@ partner
 parto
 party
 parvenu
-parà
+parÃ 
 pascal
-pascià
+pasciÃ 
 pascolo
 pasdaran
 pass
@@ -8801,7 +8801,7 @@ pavese
 pavimentatore
 pavimento
 pavone
-pavé
+pavÃ©
 peana
 pecari
 peccato
@@ -8816,7 +8816,7 @@ pedagogista
 pedagogo
 pedale
 pedalino
-pedalò
+pedalÃ²
 pederasta
 pediatra
 pedice
@@ -8987,7 +8987,7 @@ peyote
 pezzente
 pezzo
 pezzullo
-peón
+peÃ³n
 ph
 piacere
 piacimento
@@ -9038,7 +9038,7 @@ pick-up
 picnic
 pidgin
 pidocchio
-pied-à-terre
+pied-Ã -terre
 piede
 piedino
 piedipiatti
@@ -9103,8 +9103,8 @@ pioppo
 piovasco
 pipistrello
 pippiolino
-pipì
-piqué
+pipÃ¬
+piquÃ©
 piramidone
 piranha
 pirata
@@ -9155,7 +9155,7 @@ pizzico
 pizzicore
 pizzicotto
 pizzo
-piè
+piÃ¨
 placcaggio
 placebo
 placet
@@ -9220,7 +9220,7 @@ pneumotorace
 pocketbook
 podalirio
 podere
-podestà
+podestÃ 
 podio
 podismo
 podista
@@ -9667,7 +9667,7 @@ provveditore
 prozio
 pruno
 prurito
-prêt-à-porter
+prÃªt-Ã -porter
 pseudocarpo
 pseudofrutto
 pseudonimo
@@ -9740,7 +9740,7 @@ purgatorio
 purismo
 purista
 puritanesimo
-purè
+purÃ¨
 pus
 pusher
 put
@@ -9755,7 +9755,7 @@ putto
 puzzle
 puzzo
 puzzone
-pâté
+pÃ¢tÃ©
 quaderno
 quadrante
 quadrato
@@ -9866,11 +9866,11 @@ raggruppamento
 ragguaglio
 ragionamento
 ragioniere
-ragià
+ragiÃ 
 raglan
 raglio
 ragno
-ragù
+ragÃ¹
 rai
 raid
 rais
@@ -9943,7 +9943,7 @@ rassodamento
 rastrellamento
 rastrello
 rastro
-ratafià
+ratafiÃ 
 rateo
 rating
 ratto
@@ -10041,7 +10041,7 @@ relativismo
 relax
 reliquiario
 relitto
-relè
+relÃ¨
 rema
 remainder
 remake
@@ -10066,7 +10066,7 @@ reportage
 reporter
 reprint
 repulisti
-repêchage
+repÃªchage
 requisito
 rescritto
 reset
@@ -10302,7 +10302,7 @@ riscatto
 rischiaramento
 rischio
 risciacquo
-risciò
+risciÃ²
 risconto
 riscontro
 riscuotimento
@@ -10368,7 +10368,7 @@ rocchio
 rocciatore
 rock
 rockettaro
-rococò
+rococÃ²
 rodaggio
 rodeo
 rodilegno
@@ -10381,7 +10381,7 @@ rogito
 rognone
 rogo
 rollio
-rollè
+rollÃ¨
 romancio
 romanista
 romanticismo
@@ -10397,7 +10397,7 @@ rompimento
 rompiscatole
 rondismo
 rondone
-rondò
+rondÃ²
 ronzino
 ronzio
 roof-garden
@@ -10504,9 +10504,9 @@ saggista
 sagittario
 sagrato
 sagrestano
-sagù
+sagÃ¹
 saio
-sakè
+sakÃ¨
 salame
 salamelecco
 salario
@@ -10521,7 +10521,7 @@ saliscendi
 salmista
 salmo
 salmone
-salmì
+salmÃ¬
 salnitro
 salone
 saloon
@@ -10780,14 +10780,14 @@ schizzo
 schnauzer
 schooner
 schuss
-schütze
+schÃ¼tze
 sci
 sci-alpinismo
 sciabecco
 sciabordio
 sciacallaggio
 sciacallo
-sciacchetrà
+sciacchetrÃ 
 sciacquio
 sciacquo
 sciacquone
@@ -10805,7 +10805,7 @@ scientista
 scienziato
 scilinguagnolo
 scimmiottamento
-scimpanzé
+scimpanzÃ©
 scimunito
 scinco
 scintillio
@@ -10826,11 +10826,11 @@ scissionista
 scisto
 sciupio
 sciupone
-sciuscià
+sciusciÃ 
 scivolamento
 scivolo
 scivolone
-scià
+sciÃ 
 scocciatore
 scocco
 scodinzolio
@@ -10949,7 +10949,7 @@ secessionismo
 secolo
 secondino
 secreto
-secrétaire
+secrÃ©taire
 sedano
 sedere
 sediario
@@ -11133,7 +11133,7 @@ sfondamento
 sfondo
 sforzo
 sfottimento
-sfottò
+sfottÃ²
 sfracello
 sfratto
 sfregamento
@@ -11360,7 +11360,7 @@ soffocamento
 sofisma
 sofista
 software
-sofà
+sofÃ 
 soggettista
 soggettivismo
 soggetto
@@ -11425,14 +11425,14 @@ soppalco
 soppunto
 soprabito
 sopracciglio
-sopracciò
+sopracciÃ²
 sopraccoda
 sopralluogo
 sopralzo
 soprammobile
 soprannome
 soprannumero
-soprappiù
+soprappiÃ¹
 soprassalto
 soprassella
 soprattitolo
@@ -11494,7 +11494,7 @@ sottotitolo
 sottovaso
 sottraendo
 sottufficiale
-soufflé
+soufflÃ©
 souvenir
 soviet
 sovraffollamento
@@ -11997,7 +11997,7 @@ supervisore
 supino
 supplemento
 supplizio
-supplì
+supplÃ¬
 supporter
 supporto
 suppositorio
@@ -12043,7 +12043,7 @@ svolazzo
 svolgimento
 svuotamento
 swing
-séparé
+sÃ©parÃ©
 tabaccaio
 tabacchino
 tabacco
@@ -12056,7 +12056,7 @@ tabernacolo
 tabloid
 tabulato
 tabulatore
-tabù
+tabÃ¹
 taccheggiatore
 taccheggio
 tacchettio
@@ -12071,7 +12071,7 @@ tacitismo
 tackle
 tafano
 tafferuglio
-taffettà
+taffettÃ 
 tag
 tagliaborse
 tagliaboschi
@@ -12117,7 +12117,7 @@ tamil
 tamponamento
 tampone
 tamtam
-tamurè
+tamurÃ¨
 tandem
 tanfo
 tanga
@@ -12156,7 +12156,7 @@ tartaglione
 tartan
 tartaro
 tartufo
-tarì
+tarÃ¬
 tascapane
 taschino
 tassametro
@@ -12391,7 +12391,7 @@ tir
 tirabaci
 tiraggio
 tiralinee
-tiramisù
+tiramisÃ¹
 tirannicida
 tiranno
 tirannosauro
@@ -12769,12 +12769,12 @@ tutor
 tutore
 tuttologo
 tuttotondo
-tutù
+tutÃ¹
 tweed
 twist
 tycoon
-tè
-tête-à-tête
+tÃ¨
+tÃªte-Ã -tÃªte
 uadi
 ubriacone
 uccelletto
@@ -12894,7 +12894,7 @@ varano
 varco
 variatore
 varicocele
-varietà
+varietÃ 
 varismo
 varo
 vasaio
@@ -12933,7 +12933,7 @@ velopendulo
 veltro
 vendemmiaio
 veneficio
-venerdì
+venerdÃ¬
 ventaglio
 ventennio
 ventilabro
@@ -13013,7 +13013,7 @@ vice
 vicedirettore
 viceministro
 vicepresidente
-viceré
+vicerÃ©
 vicesindaco
 vicinato
 vico
@@ -13165,7 +13165,7 @@ workshop
 wto
 wwf
 www
-würstel
+wÃ¼rstel
 x-ray
 xeno
 xenotrapianto
@@ -13183,7 +13183,7 @@ yoga
 yogurt
 yorkshire
 yuppie
-yüan
+yÃ¼an
 zabaione
 zafferano
 zaffiro
@@ -13203,7 +13203,7 @@ zar
 zarevic
 zatterone
 zebedei
-zebù
+zebÃ¹
 zecchino
 zefiro
 zelatore
@@ -13253,8 +13253,8 @@ zuccone
 zuccotto
 zufolo
 zuzzurullone
-ångström
-écarté
-épagneul
-étamine
-étoile
+Ã¥ngstrÃ¶m
+Ã©cartÃ©
+Ã©pagneul
+Ã©tamine
+Ã©toile
