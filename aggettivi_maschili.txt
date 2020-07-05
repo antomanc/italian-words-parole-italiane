@@ -1154,7 +1154,7 @@ bizzoso
 blando
 blasfemo
 blasonato
-blasé
+blasÃ©
 bleso
 blindato
 bloccato
@@ -1175,7 +1175,7 @@ bolognese
 bolscevico
 bolso
 bombato
-bombé
+bombÃ©
 bonaccione
 bonario
 bonificatore
@@ -1195,7 +1195,7 @@ boscimano
 boscoso
 botanico
 botulino
-bouclé
+bouclÃ©
 bovino
 bozzettistico
 bracalone
@@ -1214,7 +1214,7 @@ brianteo
 brillante
 brillo
 brioso
-brisée
+brisÃ©e
 britannico
 britanno
 brizzolato
@@ -1240,7 +1240,7 @@ brut
 brutale
 bruto
 brutto
-brûlé
+brÃ»lÃ©
 bubbonico
 bucato
 buco
@@ -1647,7 +1647,7 @@ cirillico
 cirriforme
 cirroso
 cirrotico
-ciré
+cirÃ©
 cisalpino
 cismontano
 cispadano
@@ -1678,7 +1678,7 @@ climaterico
 climatico
 clinico
 clipeato
-cloqué
+cloquÃ©
 clorato
 cloridrico
 clorofilliano
@@ -2245,7 +2245,7 @@ dannoso
 dantesco
 danubiano
 danzante
-dappiù
+dappiÃ¹
 dappoco
 dark
 datario
@@ -2788,12 +2788,12 @@ duraturo
 durevole
 duro
 duttile
-déco
-décolleté
-déjà
-délabré
-démodé
-déraciné
+dÃ©co
+dÃ©colletÃ©
+dÃ©jÃ 
+dÃ©labrÃ©
+dÃ©modÃ©
+dÃ©racinÃ©
 ebbro
 ebete
 ebraico
@@ -2968,7 +2968,7 @@ eneolitico
 energetico
 energico
 enfatico
-engagé
+engagÃ©
 enigmatico
 enigmistico
 ennesimo
@@ -3320,7 +3320,7 @@ fantascientifico
 fantasioso
 fantastico
 fantomatico
-fané
+fanÃ©
 faraonico
 farcito
 farfallino
@@ -3505,7 +3505,7 @@ flaccido
 flagellante
 flagrante
 flamboyant
-flambé
+flambÃ©
 flautato
 flavo
 flebile
@@ -3669,7 +3669,7 @@ friendly
 frigido
 frigio
 frigorifero
-frisé
+frisÃ©
 fritto
 frivolo
 frizzante
@@ -3707,7 +3707,7 @@ fumario
 fumettistico
 fumogeno
 fumoso
-fumé
+fumÃ©
 funambolesco
 funambolico
 funebre
@@ -3907,7 +3907,7 @@ giustiziato
 giusto
 glabro
 glaciale
-glacé
+glacÃ©
 gladiatorio
 glauco
 glicerico
@@ -4541,7 +4541,7 @@ industre
 industriale
 industrioso
 induttivo
-indù
+indÃ¹
 inebetito
 inebriante
 ineccepibile
@@ -4841,7 +4841,7 @@ interdisciplinare
 interessante
 interessato
 interetnico
-interfacoltà
+interfacoltÃ 
 interforze
 intergalattico
 interglaciale
@@ -5176,7 +5176,7 @@ lamentoso
 laminare
 laminato
 lampante
-lamé
+lamÃ©
 lanceolato
 lanciamissili
 lanciato
@@ -5750,7 +5750,7 @@ metodologico
 metonimico
 metrico
 metropolitano
-meublé
+meublÃ©
 mezzadrile
 mezzano
 mezzo
@@ -5959,7 +5959,7 @@ morbido
 morboso
 mordace
 mordente
-mordorè
+mordorÃ¨
 morello
 morente
 moresco
@@ -6087,7 +6087,7 @@ nazionalista
 nazionalistico
 nazionalsocialista
 nazista
-naïf
+naÃ¯f
 ne
 nebbioso
 nebulare
@@ -6159,7 +6159,7 @@ nitrico
 nitroso
 nivale
 niveo
-niçoise
+niÃ§oise
 no
 nobile
 nobiliare
@@ -6470,7 +6470,7 @@ ostile
 ostinato
 ostruente
 ostruzionistico
-osé
+osÃ©
 ottagonale
 ottativo
 ottavo
@@ -6900,7 +6900,7 @@ piumoso
 pizio
 pizzicato
 pizzichino
-più
+piÃ¹
 placcato
 placido
 plagiario
@@ -6921,7 +6921,7 @@ plenipotenziario
 pleonastico
 pletorico
 pleurico
-plissé
+plissÃ©
 plug-in
 plumbeo
 plurale
@@ -7317,7 +7317,7 @@ prudente
 prudenziale
 pruriginoso
 prussico
-prémaman
+prÃ©maman
 pseudoscientifico
 psichedelico
 psichiatrico
@@ -7802,7 +7802,7 @@ rossastro
 rossiccio
 rosso
 rostrato
-rosé
+rosÃ©
 rotabile
 rotante
 rotativo
@@ -7838,8 +7838,8 @@ rusticano
 rustico
 rutilante
 ruvido
-rétro
-röntgen
+rÃ©tro
+rÃ¶ntgen
 sabaudo
 sabbatico
 sabbiato
@@ -9172,7 +9172,7 @@ tondo
 tonico
 tonificante
 tonnato
-tonné
+tonnÃ©
 tonto
 top-secret
 topicida
@@ -9708,6 +9708,6 @@ zuccherino
 zuccheroso
 zulu
 zuppo
-à
-écru
-événementiel
+Ã 
+Ã©cru
+Ã©vÃ©nementiel
