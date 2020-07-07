@@ -1,5 +1,4 @@
 abaco
-abat-jour
 abate
 abatino
 abbacchiamento
@@ -13253,8 +13252,3 @@ zuccone
 zuccotto
 zufolo
 zuzzurullone
-ångström
-écarté
-épagneul
-étamine
-étoile
