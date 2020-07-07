@@ -2817,6 +2817,7 @@ eclittico
 ecologico
 economico
 economo
+écru
 ecumenico
 eczematoso
 edematoso
@@ -3259,6 +3260,7 @@ evanescente
 evangelico
 evasivo
 evaso
+événementiel
 eventuale
 evergreen
 eversivo
@@ -9707,6 +9709,3 @@ zuccherino
 zuccheroso
 zulu
 zuppo
-à
-écru
-événementiel
